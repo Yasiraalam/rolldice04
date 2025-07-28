@@ -2399,14 +2399,14 @@ SPEC CHECKSUMS:
   React-performancetimeline: 9321ba7605abcfb3a2b497fd7cbaf5cfd8c7cf67
   React-RCTActionSheet: 49138012280ec3bbb35193d8d09adb8bc61c982e
   React-RCTAnimation: ebfe7c62016d4c17b56b2cab3a221908ae46288d
-  React-RCTAppDelegate: ece4512e40f7bd6acbef659663222723234ea8bd
+  React-RCTAppDelegate: 0108657ba9a19f6a1cd62dcd19c2c0485b3fc251
   React-RCTBlob: 6cc309d1623f3c2679125a04a7425685b7219e6b
-  React-RCTFabric: acc5c4e7382b9d5f0ae3e2e437be79a5ca65eee2
-  React-RCTFBReactNativeSpec: c0b5e8108e008d307de0cc4f5b861e986012e755
+  React-RCTFabric: 0a9ff5c9d1e1d7fc026bda6671180cbf56861c15
+  React-RCTFBReactNativeSpec: ff3e37e2456afc04211334e86d07bf20488df0ae
   React-RCTImage: bb98a59aeed953a48be3f917b9b745b213b340ab
   React-RCTLinking: d6e9795d4d75d154c1dd821fd0746cc3e05d6670
   React-RCTNetwork: 5c8a7a2dd26728323189362f149e788548ac72bc
-  React-RCTRuntime: ffcb6dc149f5f5a27be30f3f99e0e7ce2a6887af
+  React-RCTRuntime: 96808e8fdce300a26c82d8c24174e33ba5210a7c
   React-RCTSettings: b6a02d545ce10dd936b39914b32674db6e865307
   React-RCTText: c7d9232da0e9b5082a99a617483d9164a9cd46e9
   React-RCTVibration: fe636c985c1bf25e4a5b5b4d9315a3b882468a72
@@ -2429,4 +2429,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: c798caf08e16dd1391bfcb241572abe76cf82f55
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
